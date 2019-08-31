@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dfdb762-6c1c-4699-ba0a-5d1bb981a792" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_08_31_213445_create_categories_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2019_08_31_222004_create_products_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_31_003310_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_31_003310_create_password_resets_table.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +174,7 @@
       <workItem from="1567006116579" duration="943000" />
       <workItem from="1567007665221" duration="4765000" />
       <workItem from="1567178601937" duration="4863000" />
-      <workItem from="1567263326550" duration="2549000" />
+      <workItem from="1567263326550" duration="5308000" />
     </task>
     <servers />
   </component>

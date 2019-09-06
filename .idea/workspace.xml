@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dfdb762-6c1c-4699-ba0a-5d1bb981a792" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_09_03_220058_create_order_products_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_09_03_220121_create_orders_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_31_213445_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_31_213445_create_categories_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_31_222004_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_31_222004_create_products_table.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -205,6 +206,9 @@
       <workItem from="1567437275435" duration="607000" />
       <workItem from="1567523459090" duration="2529000" />
       <workItem from="1567690887711" duration="11883000" />
+      <workItem from="1567740412421" duration="2088000" />
+      <workItem from="1567750494238" duration="1277000" />
+      <workItem from="1567778630142" duration="1971000" />
     </task>
     <servers />
   </component>
